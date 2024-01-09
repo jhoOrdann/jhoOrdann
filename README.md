@@ -2,14 +2,14 @@
 Me chamo Jhordan, prazer, faço umas peripécias aí pelo discord, sites entre outros projetos kk
 
 ### 😎 Meus projetos
-[Meu projetos](https://github.com/jhoOrdann/myprojects) - Todos meus projetos ue kk
-[Foooly](https://github.com/jhoOrdann/FooolyBot) - Meu bot do discord
+[Meu projetos](https://github.com/jhoOrdann/myprojects) - Todos meus projetos ue kk<br>
+[Foooly](https://github.com/jhoOrdann/FooolyBot) - Meu bot do discord<br>
 [Kookin Source](https://github.com/jhoOrdann/kookin-source) - Source Code do meu site de filmes
 
 ### 📌 Meus sites
 [Meu site pessoal](#)
-[AppMarket](https://appmarket.vercel.app) - Site para baixar aplicativos e jogos
-[Foooly](https://foooly.vercel.app) - Site do meu bot
+[AppMarket](https://appmarket.vercel.app) - Site para baixar aplicativos e jogos<br>
+[Foooly](https://foooly.vercel.app) - Site do meu bot<br>
 [Kookin](https://kookin.vercel.app) - Site de filmes e séries
 
 ### ⭐ Linguagens que sei mexer
