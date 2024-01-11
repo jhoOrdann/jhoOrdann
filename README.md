@@ -7,7 +7,7 @@ Me chamo Jhordan, prazer, faço umas peripécias aí pelo discord, sites entre o
 [Kookin Source](https://github.com/jhoOrdann/kookin-source) - Source Code do meu site de filmes
 
 ### 📌 Meus sites
-[Meu site pessoal](#)<br>
+[Meu site pessoal](https://jhordanlossehelin.vercel.app) - Meu site pessoal ue kk<br>
 [AppMarket](https://appmarket.vercel.app) - Site para baixar aplicativos e jogos<br>
 [Foooly](https://foooly.vercel.app) - Site do meu bot<br>
 [Kookin](https://kookin.vercel.app) - Site de filmes e séries
