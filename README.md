@@ -13,7 +13,7 @@ Me chamo Jhordan, prazer, faço umas peripécias aí pelo discord, sites entre o
 [Kookin](https://kookin.vercel.app) - Site de filmes e séries
 
 ### ⭐ Linguagens que sei mexer
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](#)
 
 ### ❤ Linguagens que to querendo saber (ainda)
 [![My Skills](https://skillicons.dev/icons?i=cs,c,cpp)](#)
